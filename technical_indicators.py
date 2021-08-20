@@ -1,6 +1,6 @@
 
 #####################################################
-## Technical Indicator Examples (RSI, ATR, ADX...) ##
+## Technical Indicator Examples (RSI, ATR, ADX...) ## 
 #####################################################
 
 import traceback
